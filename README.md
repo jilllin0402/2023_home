@@ -16,3 +16,4 @@ big section
 ```
 
 ![照片](B.jpg "照片")
+![飛機](sunset.jpg "太陽")
